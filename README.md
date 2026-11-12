@@ -19,4 +19,4 @@ Con un Apple ID gratuito la firma **caduca a los 7 días** y hay un máximo de 3
 
 ## Estado
 
-No se pudo compilar de manera local...
+La aplicación no se compila de manera local, sino que se utiliza GitHub Actions, ya que no tengo un dispositivo con macOS.
