@@ -10,7 +10,7 @@
 
 - Conecta el iPhone por USB, arrastra `Morgana.ipa` a Sideloadly, escribe tu Apple ID y pulsa *Start*.
 
-- En iOS 16 o superior activa el **Modo de desarrollador**: Ajustes → Privacidad y seguridad → Modo de desarrollador.
+- En iOS 16 o superior activa el **Modo de desarrollador** en Ajustes → Privacidad y seguridad → Modo de desarrollador.
 
 - Ajustes → General → VPN y gestión de dispositivos → confía en tu Apple ID.
 
