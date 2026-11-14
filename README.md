@@ -1,21 +1,29 @@
-# Morgana
-
-Un reproductor de FLAC para iOS con estética moderna. Sin anuncios y gratis.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b0f700a9-c9d0-4e8d-8621-802ff59b6a3a" alt="Logo de Morgana" width="120" />
+  <h1>Morgana</h1>
+  <p>Un reproductor de FLAC para iOS con estética moderna. Sin anuncios y gratis.</p>
+</div>
 
 ## Instalar en el iPhone desde Windows
 
 - Instala [Sideloadly](https://sideloadly.io). También se necesita iTunes, pero la versión de la web de Apple.
+
 - Conecta el iPhone por USB, arrastra `Morgana.ipa` a Sideloadly, escribe tu Apple ID y pulsa *Start*.
+
 - En iOS 16 o superior activa el **Modo de desarrollador**: Ajustes → Privacidad y seguridad → Modo de desarrollador.
+
 - Ajustes → General → VPN y gestión de dispositivos → confía en tu Apple ID.
 
 Con un Apple ID gratuito la firma **caduca a los 7 días** y hay un máximo de 3 apps instaladas así. Sideloadly puede restaurar la firma. Si caduca, vuelve a instalar el `.ipa`.
 
 ## Uso
 
-- Abre la app → pestaña **Carpetas** → **Añadir carpeta** y elige donde tienes los FLAC.
+- Abre la app → pestaña **Configuración** → **Añadir carpeta** y elige donde tienes los FLAC.
+  
 - Espera al escaneo. La biblioteca aparece en el resto de pestañas.
+  
 - Si añades música nueva, usa **Volver a escanear**.
+
 
 ## Estado
 
