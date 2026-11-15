@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b0f700a9-c9d0-4e8d-8621-802ff59b6a3a" alt="Logo de Morgana" width="120" />
+  <img src="assets/Logo/Logo.png" alt="Logo de Morgana" width="120" />
   <h1>Morgana</h1>
+</div>
   <p>Un reproductor de FLAC para iOS con estética moderna. Sin anuncios y gratis.</p>
 </div>
 
