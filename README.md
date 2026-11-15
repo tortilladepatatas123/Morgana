@@ -29,6 +29,24 @@ Con un Apple ID gratuito la firma **caduca a los 7 días** y hay un máximo de 3
 
 La aplicación no se compila de manera local, sino que se utiliza GitHub Actions, ya que no tengo un dispositivo con macOS.
 
+## Cómo se trata la privacidad
+
+Morgana se diseñó pensando en la privacidad del usuario.
+
+- No se recopilan datos personales.
+
+- No se utiliza analítica ni ningún sistema de seguimiento.
+
+- No se muestra publicidad.
+
+- No es necesario crear una cuenta.
+
+- No se solicitan permisos innecesarios.
+
+Morgana utiliza tecnologías nativas de Apple, como  _AVPlayer_ para la reproducción de audio y el selector de documentos de iOS para seleccionar archivos desde ubicaciones como iCloud Drive.
+
+En los ajustes de iOS puede aparecer que Morgana tiene acceso a datos móviles debido a las capacidades de red de _AVPlayer_ y a la integración con iCloud Drive. Puedes desactivar el acceso a datos móviles desde los ajustes de tu iPhone y Morgana seguirá funcionando con normalidad para reproducir tu música almacenada localmente.
+
 ## Copyright
 
 Morgana — Copyright © 2026 tortilla de patatas
