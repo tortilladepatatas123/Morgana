@@ -25,7 +25,12 @@ Con un Apple ID gratuito la firma **caduca a los 7 días** y hay un máximo de 3
   
 - Si añades música nueva, usa **Volver a escanear**.
 
-
 ## Estado
 
 La aplicación no se compila de manera local, sino que se utiliza GitHub Actions, ya que no tengo un dispositivo con macOS.
+
+## Copyright
+
+Morgana — Copyright © 2026 tortilla de patatas
+
+Este programa es software libre. Puedes redistribuirlo y modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3, publicada por la Free Software Foundation. Se distribuye sin ninguna garantía. Consulta el archivo LICENSE para más detalles.
